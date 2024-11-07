@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+//ghdfhsdgfhdgfhd
 int main(){
     int mark[4]={40,50,70,20};
     cout<<"here the mark of the arry:"<<endl;
